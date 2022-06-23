@@ -1,0 +1,5 @@
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.csproj.AssemblyReference.cache
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.AssemblyInfoInputs.cache
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.AssemblyInfo.cs
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStore.DataAccess\obj\Debug\net6.0\BookStore.DataAccess.csproj.CoreCompileInputs.cache

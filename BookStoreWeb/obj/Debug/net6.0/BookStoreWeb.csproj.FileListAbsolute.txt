@@ -1,0 +1,8 @@
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.csproj.AssemblyReference.cache
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.AssemblyInfoInputs.cache
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.AssemblyInfo.cs
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.csproj.CoreCompileInputs.cache
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.RazorAssemblyInfo.cache
+D:\Programming\ASP.NET\Udemy Course\Bulky-master\Book Store\BookStoreWeb\obj\Debug\net6.0\BookStoreWeb.RazorAssemblyInfo.cs
